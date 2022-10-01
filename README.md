@@ -1,2 +1,3 @@
 add name
-jono
+- jono
+- kiki

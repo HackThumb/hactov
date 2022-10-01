@@ -1,5 +1,6 @@
-add name
-- jono
-- kiki
-- agung
-- gigi
+NAMES
+
+    jono
+    kiki
+    agung
+    gigi
